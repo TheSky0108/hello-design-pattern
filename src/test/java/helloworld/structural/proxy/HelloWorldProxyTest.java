@@ -1,8 +1,5 @@
 package helloworld.structural.proxy;
 
-import helloworld.HelloWorld;
-import helloworld.structural.decorator.HelloWorldDecorator;
-import helloworld.structural.facade.HelloWorldFacade;
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
